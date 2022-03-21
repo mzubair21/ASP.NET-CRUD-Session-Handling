@@ -1,5 +1,5 @@
 # ASP.NET-CRUD-Session-Handling
-![Landing Page Preview](/Images/1.png "Landing Page")
+![Landing Page Preview](Images/1.png "Landing Page")
 
 ## Introduction
 
@@ -83,7 +83,7 @@ To run this project you simply need to:
 3. Double click on **ByteWise Login System.sln** and run with **Visual Studio 2019**
 
 ## PREVIEW
-![Landing Page Preview](/Images/1.png "Landing Page")
-![Sign Up Selection Preview](/Images/2.png "Sign Up Selection")
-![Sign Up Preview](/Images/3.png "Sign Up")
-![Welcome Page Preview](/Images/4.png "Welcome Page")
+![Landing Page Preview](Images/1.png "Landing Page")
+![Sign Up Selection Preview](Images/2.png "Sign Up Selection")
+![Sign Up Preview](Images/3.png "Sign Up")
+![Welcome Page Preview](Images/4.png "Welcome Page")
