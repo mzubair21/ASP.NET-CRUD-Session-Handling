@@ -80,7 +80,7 @@ You just need the following softwares to be installed in your computer to run th
 To run this project you simply need to:
 1. Start you **SQL Server SERVICES**
 2. Execute [Authentication.sql](Authentication.sql) script in your **SSMS** 
-3. Double click on **ByteWise Login System.sln** and run with **Visual Studio 2019**
+3. Double click on [ByteWise Login System.sln](ByteWise%20Login%20System/ByteWise%20Login%20System.sln) and run with **Visual Studio 2019**
 
 ## PREVIEW
 ![Landing Page Preview](/Images/1.PNG "Landing Page")
