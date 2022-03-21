@@ -158,3 +158,34 @@ C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login Sy
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.csproj.CopyComplete
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.dll
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\ByteWise Login System.dll.config
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\ByteWise Login System.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\ByteWise Login System.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Antlr3.Runtime.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\AppProps.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\BLL.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\DAL.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Newtonsoft.Json.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\System.Web.Optimization.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\WebGrease.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\AppProps.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\BLL.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\DAL.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\System.Web.Optimization.xml
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Newtonsoft.Json.xml
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Antlr3.Runtime.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.csproj.AssemblyReference.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.csproj.CopyComplete
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\ByteWise Login System\obj\Debug\ByteWise Login System.pdb

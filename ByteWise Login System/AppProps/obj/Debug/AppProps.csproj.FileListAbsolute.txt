@@ -10,3 +10,9 @@ C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login Sy
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\AppProps\obj\Debug\AppProps.dll
 C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\AppProps\obj\Debug\AppProps.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\bin\Debug\AppProps.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\bin\Debug\AppProps.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\obj\Debug\AppProps.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ASP.net CRUD\ByteWise Login System\AppProps\obj\Debug\AppProps.pdb

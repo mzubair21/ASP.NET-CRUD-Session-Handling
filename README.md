@@ -1,5 +1,5 @@
 # ASP.NET-CRUD-Session-Handling
-![Landing Page Preview](Images/1.png "Landing Page")
+![Main Page Preview](/Images/0.png "Main Page")
 
 ## Introduction
 
@@ -79,11 +79,11 @@ You just need the following softwares to be installed in your computer to run th
 
 To run this project you simply need to:
 1. Start you **SQL Server SERVICES**
-2. Execute **Authentication.sql** script in your **SSMS** 
+2. Execute [Authentication.sql](Authentication.sql) script in your **SSMS** 
 3. Double click on **ByteWise Login System.sln** and run with **Visual Studio 2019**
 
 ## PREVIEW
-![Landing Page Preview](Images/1.png "Landing Page")
-![Sign Up Selection Preview](Images/2.png "Sign Up Selection")
-![Sign Up Preview](Images/3.png "Sign Up")
-![Welcome Page Preview](Images/4.png "Welcome Page")
+![Landing Page Preview](/Images/1.PNG "Landing Page")
+![Sign Up Selection Preview](/Images/2.PNG "Sign Up Selection")
+![Sign Up Preview](/Images/3.PNG "Sign Up")
+![Welcome Page Preview](/Images/4.PNG "Welcome Page")
