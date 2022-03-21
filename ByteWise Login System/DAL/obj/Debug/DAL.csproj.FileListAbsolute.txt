@@ -1,0 +1,18 @@
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\bin\Debug\DAL.dll
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\bin\Debug\DAL.pdb
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\bin\Debug\AppProps.dll
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\bin\Debug\AppProps.pdb
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\obj\Debug\DAL.dll
+C:\Users\mzuba\source\repos\ByteWise Login System\DAL\obj\Debug\DAL.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\bin\Debug\DAL.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\bin\Debug\DAL.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\bin\Debug\AppProps.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\bin\Debug\AppProps.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\obj\Debug\DAL.dll
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\ByteWise Login System\DAL\obj\Debug\DAL.pdb
